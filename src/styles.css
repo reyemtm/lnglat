@@ -1,0 +1,23 @@
+@import url("https://fonts.cdnfonts.com/css/sofia-pro");
+
+html,
+body {
+  height: 100%;
+  /* display: flex; */
+  /* flex: column; */
+}
+
+body {
+  -webkit-font-smoothing: auto;
+  -moz-font-smoothing: auto;
+  -moz-osx-font-smoothing: grayscale;
+  font-smoothing: auto;
+  text-rendering: optimizeLegibility;
+  font-smooth: always;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+}
+
+#root {
+  height: 100%;
+}
